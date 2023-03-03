@@ -1,0 +1,3 @@
+leia----->numero x
+leia----->numero y
+escreva----> x+y=

@@ -1,0 +1,9 @@
+leia------>unidade de temperatura
+var----> a unidade estiver em graus celsius, escreva---> conversão em  
+fahrenheit
+
+
+var---> a unidade estiver em graus farhenheit, escreva--->conversão em 
+celsius
+
+fim
