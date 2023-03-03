@@ -1,5 +1,6 @@
-leia----> lista de números
-escreva----> soma de todos os números contidos na lista dvididido pela 
-quantidade de numeros da lista
+leia----> lista de x números
+escreva----> soma de todos os elementos de x = n
+escreva----> n/x
+escreva---->resultado
 
 fim
