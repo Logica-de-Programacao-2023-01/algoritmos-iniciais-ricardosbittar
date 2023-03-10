@@ -1,5 +1,4 @@
-1. leia os números da lista L
-2. leia cada elemento da lista L
-3. se o número não for correspondente a x, continue a verificar a a 
-lista
-4. senão: finalize a verificação
+1. leia x
+2. leia lista
+3. para cada elemento da lista, faça:
+4. se elemento for x, escreva 'x'
